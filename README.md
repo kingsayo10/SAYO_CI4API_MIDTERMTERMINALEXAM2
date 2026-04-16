@@ -1,6 +1,6 @@
-# Pusakat Management API
+# Management API
 
-A professional,  REST API for cat record management.
+A professional,  REST API for record management.
 
 ---
 
@@ -11,7 +11,7 @@ A professional,  REST API for cat record management.
 
 ## Verification & Results
 
-All testing scenarios, security roles, and API "Answers" are documented as **Screenshots and Videos** in the **[Postman](./PostMan)** folder.
+All testing scenarios, security roles, and API "Answers" are documented as **Screenshots and Videos** in the **[Postman](./PostMan(Image))** folder.
 
 ---
 
