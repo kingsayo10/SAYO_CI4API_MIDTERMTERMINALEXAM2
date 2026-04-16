@@ -11,7 +11,7 @@ A professional,  REST API for record management.
 
 ## Verification & Results
 
-All testing scenarios, security roles, and API "Answers" are documented as **Screenshots and Videos** in the **[Postman](./PostMan(Image))** folder.
+All testing scenarios, security roles, and API "Answers" are documented as **Screenshots** in the Postman (Image) folder.
 
 ---
 
